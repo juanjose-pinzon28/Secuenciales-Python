@@ -1,4 +1,4 @@
-# 🧠 Ejercicios Secuenciales de Python
+# 🧠 Ejercicios de secuencia en Python
 
 Este repositorio contiene mis soluciones a los ejercicios vistos en clase.
 - Lenguaje: PSeInt / Python
